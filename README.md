@@ -25,7 +25,7 @@
 - Цена со скидкой
 
 ### Пример вывода
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 ```
     Страница: 2
     Наименование: Спрей для волос
